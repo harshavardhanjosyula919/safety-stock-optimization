@@ -81,6 +81,13 @@ python safety_stock_calc.py
 | Excess Inventory | $1.5M | $780K | -48% |
 | Expedited Freight | $340K | $85K | -75% |
 
+
+## Full Case Study
+
+📄 [Download Executive Summary (PDF)](Tradeoff_Analysis_Safety_Stock_Optimization.pdf)
+
+Or view the analysis in the `reports/` folder.
+
 ## Contact
 
 **Sri Harshavardhan Josyula**  
