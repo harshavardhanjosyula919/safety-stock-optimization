@@ -82,10 +82,9 @@ python safety_stock_calc.py
 | Expedited Freight | $340K | $85K | -75% |
 
 
-## Full Case Study
+## 📄 Executive Summary
 
-📄 [Download Executive Summary (PDF)](Tradeoff_Analysis_Safety_Stock_Optimization.pdf)
-
+View the full case study: [Tradeoff Analysis (PDF)](reports/Tradeoff%20Analysis%3A%20Safety%20Stock%20Optimization.pdf)
 Or view the analysis in the `reports/` folder.
 
 ## Contact
